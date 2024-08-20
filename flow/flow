@@ -1,0 +1,4 @@
+1. Add support for all platforms
+Build the Desktop and Mobile clients
+Build the browser clients
+Package the server core with podman, and/or self hosting.
